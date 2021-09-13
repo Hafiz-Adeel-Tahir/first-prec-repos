@@ -1,0 +1,15 @@
+download git
+
+configuration => git config --global user.name "Adeel" 
+
+configuration => git config --global user.email "Adeel@gmail.com" 
+
+1. git status 
+		git init  //create git directory/repository
+2. git add . 
+
+3. git commit -m "This is master file commet."
+
+4. git log //user-perfomance report
+
+5. git commit -a -m "This will skip staging command and also work able on already staging file not on new ones."
